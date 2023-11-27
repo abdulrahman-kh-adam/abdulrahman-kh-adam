@@ -1,1 +1,1 @@
-I'm Abdulrahman Adam, senior Mechatronics Engineering Student whose interested in embedded systems and software engineering :)
+I'm Abdulrahman Adam, senior Mechatronics Engineering Student whose interested in software engineering and web development. Currently, I'm learning front-end web development using HTML, CSS and Javascript. It is a long journey, but it is fun!
