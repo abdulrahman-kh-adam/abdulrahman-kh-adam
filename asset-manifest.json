@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.feb7787b.css",
+    "main.js": "/static/js/main.155a39ca.js",
+    "static/media/react.png": "/static/media/react.6ae796f5d9f3e367acea.png",
+    "static/media/py.png": "/static/media/py.4f5f52c67194dc46e313.png",
+    "static/media/flask.png": "/static/media/flask.a513ea1d978a3bef2c16.png",
+    "static/media/java.png": "/static/media/java.4e332879122f609caa57.png",
+    "static/media/css.png": "/static/media/css.9f33c557b92e4e2e1cc8.png",
+    "static/media/cpp.png": "/static/media/cpp.053a898d752aef72651e.png",
+    "static/media/redux.png": "/static/media/redux.b426d97de12d4dab1c06.png",
+    "static/media/js.png": "/static/media/js.26cd97a1ab0006d1c2a2.png",
+    "static/media/c.png": "/static/media/c.83dfa097dfa94f707a41.png",
+    "static/media/3d.webp": "/static/media/3d.4af46c34b972042f244c.webp",
+    "static/media/sql.png": "/static/media/sql.1dc2631b700f5f1688c4.png",
+    "index.html": "/index.html",
+    "main.feb7787b.css.map": "/static/css/main.feb7787b.css.map",
+    "main.155a39ca.js.map": "/static/js/main.155a39ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feb7787b.css",
+    "static/js/main.155a39ca.js"
+  ]
+}
