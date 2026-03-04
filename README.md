@@ -15,12 +15,9 @@
 
 <br>
 
-- A passionate MEARN Stack Developer
-- Working as:
-  - MEAN Stack Instructor at ADA Egypt
-  - Python Instructor at Codinger
-- Personal website [link](https://www.abdulrahmanadam.online)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]()
+- A passionate Front End and Cross Platform Mobile Developer
+- Currently studying Intensive Code Camp (ICC) at Information Technology Institute (ITI).
+- Experienced in React.js, Next.js and React Native.
 
 <br><br>
 
